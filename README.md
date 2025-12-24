@@ -23,4 +23,4 @@ $$ | \_/ $$ |\$$$$$$$ |$$ |  $$ |\$$$$$$$ |\$$$$$$$ |\$$$$$$$\ $$ |
 ```
 
 # GUI local Password Manager app.
-## Python app built with JSON, Pyperclip and TkInter libraries.# Password-Manager
+## Python app built with JSON, Pyperclip and TkInter libraries.
